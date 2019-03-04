@@ -1,27 +1,27 @@
 {
 	"todos": [
 		{
-			"title": "Task 1",
-			"responsable": "Mark",
-			"description": "LOrem impsum loren",
+			"title": "Diseño de Interfaz",
+			"responsable": "David",
+			"description": "Desarrollo de templates de la App",
 			"priority": "low"
 		},
 		{
-			"title": "Task 2",
-			"responsable": "CHetaa da mora",
-			"description": "LOrem impsum loren",
+			"title": "Desarrollo de BD",
+			"responsable": "Carlos",
+			"description": "Diseñar la bd principal",
 			"priority": "medium"
 		},
 		{
-			"title": "Task 3",
-			"responsable": "Victoria",
-			"description": "LOrem impsum loren",
+			"title": "Programar controladores",
+			"responsable": "Juan",
+			"description": "Desarrollar la lógica de negocio",
 			"priority": "high"
 		},
 		{
-			"title": "Task 4",
-			"responsable": "sheylota",
-			"description": "LOrem impsum loren",
+			"title": "Desarrollo de metodología",
+			"responsable": "sheyla",
+			"description": "Diseño de proyecto",
 			"priority": "low"
 		}		
 	]
