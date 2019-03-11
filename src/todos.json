@@ -23,6 +23,12 @@
 			"responsable": "sheyla",
 			"description": "Diseño de proyecto",
 			"priority": "low"
+		},
+		{
+			"title": "Desarrollo de Manuales de Usuario",
+			"responsable": "Julio",
+			"description": "Manuales de proyecto",
+			"priority": "low"
 		}		
 	]
 }
