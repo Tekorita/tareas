@@ -22,7 +22,7 @@ class App extends Component {
   }
 
   removeTodo(index) {
-    if (window.confirm('Estas seguro de que deseas eliminar la tarea?')){ //Los eventos propios del navegador como confirm o alert para que no den error en react se agregan con la palabra window
+    if (window.confirm('Estas seguro de que deseas eliminar o borrar la tarea?')){ //Los eventos propios del navegador como confirm o alert para que no den error en react se agregan con la palabra window
         this.setState({
         todos: this.state.todos.filter((e, i) => { //la funcion map recorre un arreglo y te devuelve sus datos, en cambio filter recorre un arreglo y muestra los datos si cumplen con una condicion
           return i !== index
